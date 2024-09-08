@@ -1,1 +1,1 @@
-# clang_course MIPT c language course
+# MIPT C-language course
