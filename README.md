@@ -1,1 +1,1 @@
-# MIPT C-language course
+# CMPI C-language course
